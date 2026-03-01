@@ -24,3 +24,6 @@ config.json
 
 # OS
 .DS_Store
+
+# ローカル用（GitHub に含めない）
+GitHub公開手順.md
