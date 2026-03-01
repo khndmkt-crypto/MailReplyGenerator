@@ -1,0 +1,26 @@
+# 作成者: こひなだ まこと
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+*.egg-info/
+*.egg
+
+# 設定ファイル（個人設定を含む可能性があるため）
+config.json
+
+# ログファイル
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
